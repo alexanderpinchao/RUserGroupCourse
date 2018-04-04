@@ -1,2 +1,3 @@
 # RUserGroupCourse
-curso R
+##curso R
+cositas que ya conocia
